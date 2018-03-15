@@ -1,0 +1,4 @@
+#Thu Mar 15 19:12:02 WIB 2018
+base.0=/media/abdillahh/DAEAC85BEAC83613/hacktiv8/phase 3/week 2/train/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/media/abdillahh/DAEAC85BEAC83613/hacktiv8/phase 3/week 2/train/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
